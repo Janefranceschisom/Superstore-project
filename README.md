@@ -5,8 +5,11 @@ I assumed the manager in the U.S superstore has asked to see the turnout of even
 
 The first question asked was to fnd out the total and average profit made across the products.
 This was analyzed by using microsoft excel, the sum function was used to add all the profit data set and the value was 286397.02 while the average was calculated using the average function in the excel workbook and the value was 28.66.
+
+
 The second question was to find out the percentage of sales that made up the profit .
 This was analyzed by dividing the profit generated over sales and converting it to percentage and 12% was gotten as the value.
+
 The third question was to find out the total profit by segment and region.
 This was analyzed with a pivot table and was visualized with pivot chart.
 ![Screenshot (21)](https://github.com/Janefranceschisom/Superstore-project/assets/140454293/f1043ea8-8b3d-47e9-8db9-3569cc92e3e9)
